@@ -55,7 +55,7 @@ const Liked = async () => {
             "
             >
               <p className="hidden md:block font-semibold text-sm">
-                Your's liked playlist
+                 liked playlist
               </p>
               <h1
                 className="
