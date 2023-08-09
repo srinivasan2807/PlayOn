@@ -55,10 +55,9 @@ const Liked = async () => {
             "
             >
               <p className="hidden md:block font-semibold text-sm">
-                 liked playlist
+                liked playlist
               </p>
-              <h1
-                className="
+              <h1 className="
                text-white
                text-4xl
                sm:text-5xl
